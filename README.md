@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/sample_dog_output_2.png "Sample Output"
+[image1]: ./images/sample_dog_output_2.PNG "Sample Output"
 
 
 ## Classifying Dog Breeds using CNNs in PyTorch
